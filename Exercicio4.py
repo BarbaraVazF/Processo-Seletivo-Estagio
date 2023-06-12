@@ -35,5 +35,5 @@ x = ['Homem','Mulher']
 y = [media_homem_format,media_mulher_format]
 
 sns.barplot(x=x, y=y)
-plt.title('Média de morte no transito em 2021 masculina e feminina na Austrália')
+plt.title('Média da idade de morte no transito em 2021 na Austrália')
 plt.show()

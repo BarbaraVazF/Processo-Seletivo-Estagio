@@ -7,5 +7,4 @@ for i in range(0,20):
 
 maior_valor = max(lista_aleatoria)
 
-print(lista_aleatoria)
 print('O maior número da lista criada é %d.'%(maior_valor))

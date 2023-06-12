@@ -82,12 +82,12 @@ x = [primeiro_gp,segundo_gp,terceiro_gp,quarto_gp,quinto_gp,sexto_gp]
 y = [qtd_1gp_s,qtd_2gp_s,qtd_3gp_s,qtd_4gp_s,qtd_5gp_s,qtd_6gp_s]
 
 sns.barplot(x=x, y=y)
-plt.title('Freqência dos acidentes Single')
+plt.title('Frequência dos acidentes Single')
 plt.show()
 
 k = [primeiro_gp,segundo_gp,terceiro_gp,quarto_gp,quinto_gp,sexto_gp]
 p = [qtd_1gp_m,qtd_2gp_m,qtd_3gp_m,qtd_4gp_m,qtd_5gp_m,qtd_6gp_m]
 
 sns.barplot(x=k, y=p)
-plt.title('Freqência dos acidentes Multiple')
+plt.title('Frequência dos acidentes Multiple')
 plt.show()
